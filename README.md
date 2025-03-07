@@ -44,9 +44,9 @@ Contatos
 <br>
 <br>
 <div>
-  <a href="https://www.youtube.com/channel/UCBRq6fO_-P6yPOVbC0yZVmQ&quot; target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&quot; target="_blank"></a>
- <a href="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white"><img align="center" src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white&quot; target="_blank"></a>
-  <a href = "rafael.assis.santos@escola.pr.gov.br.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"></a>
+  <a href="https://www.youtube.com/"_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&quot; target="_blank"></a>
+ <a href="https://editor.p5js.org/"><img align="center" src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white&quot; target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/#inbox"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-assis-santos-3384b220a/&quot; target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&quot; target="_blank"></a>
 </div>
 <br>
