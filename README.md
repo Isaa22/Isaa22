@@ -4,29 +4,29 @@
 
 <p float="left">
   <img src="20241021095613406.jpg" width="400px" />
-  <img src="20241023142556283.jpg" height="500px" width="400px" />
+  <img src="20241023142556283.jpg" height="500px" width="500px" />
 </p>
 
 <BR>
-- 👨‍💻 Gosto de computação
+- 🥁gosto de tocar bateria 
 <br>
 <BR>
-- 😉Formatação
+- 👩‍🍳gosto de cozinhar
 <br>
 <BR>
-- 💞️ CMD
+- ❤️‍🔥catolica
 <br>
 <BR>
-- 💻 Modificar bios de notebook
+- 
 <br>
 <BR>
-- 🤔 Front-end
+- 💸
 <br>
 <BR>
-- 🤯 Back-end
+- 🇻🇦
 <br>
 <BR>
-- 💞 Javascript
+- 🎙️ cantora
 <br>
 <BR>
 - 💰 style.css
