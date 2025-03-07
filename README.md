@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oii!+👋;+me+chamo- Maria-Isabely!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Maria!;" />
 </h1>
 
 <p float="left">
@@ -53,3 +53,8 @@ Contatos
 <h1 align="center">
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
+
+###
+<img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg&quot; alt="Snake animation" />
+
+###
